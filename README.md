@@ -4,7 +4,7 @@
 <h3> > Contáctame: </h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/pedrocontreras-js/" target="_blank"> <img src="./img/icons/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://drive.google.com/file/d/1_Hu_RuYno7yuELDfRCckndcylh3lcfrq/view?usp=sharing" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
+  <code><a href="https://drive.google.com/file/d/13PsUVdphif23kDXlNvQYb6cSBYMgqCSs/view?usp=sharing" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
   <code><a href="mailto:pedrocontreras182@gmail.com" target="_blank"> <img src="./img/icons/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
   
 </p>
