@@ -4,7 +4,7 @@
 <h3> > Contáctame: </h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/pedrocontreras-js/" target="_blank"> <img src="./img/icons/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://drive.google.com/file/d/1_Hu_RuYno7yuELDfRCckndcylh3lcfrq/view?usp=sharing" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
+  <code><a href="https://drive.google.com/file/d/1RZc2xCwI3Nm1WIuC61tNZ43-Fd1LGMNj/view?usp=sharing" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
   <code><a href="mailto:pedrocontreras182@gmail.com" target="_blank"> <img src="./img/icons/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
   
 </p>
@@ -32,12 +32,12 @@
 <a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Store! - E-commerce </a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620607840/Proyects/Store_dymrk7.png" width="500" /></a>
+<a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="./img/icons/catalogue.png" width="500" /></a>
 
-<a href="https://github.com/Pavegliobruno/Videogames" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />PokemonApp</a>
+<a href="https://github.com/pedro030/PokemonApp" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />PokemonApp</a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://github.com/Pavegliobruno/Videogames" ><img align="center" src="./img/icons/HomePokemon.png" width="500" /></a>
+<a href="https://github.com/pedro030/PokemonApp" ><img align="center" src="./img/icons/HomePokemon.png" width="500" /></a>
 
 <!-- <a href="https://" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather-App </a>
 
